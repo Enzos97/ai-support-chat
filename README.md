@@ -49,10 +49,10 @@ $ npm run start:prod
 
 ```bash
 # link URL Back
-https://ai-support-chat-32l3eqz3rq-rj.a.run.app
+(https://ai-support-chat-32l3eqz3rq-rj.a.run.app)
 
 # link URL Front
-https://eprz-chat-43awxm0pn-enzos97s-projects.vercel.app/
+(https://eprz-chat-43awxm0pn-enzos97s-projects.vercel.app/)
 
 ```
 
