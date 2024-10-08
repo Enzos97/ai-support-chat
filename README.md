@@ -45,17 +45,15 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Links
 
 ```bash
-# unit tests
-$ npm run test
+# link URL Back
+https://ai-support-chat-32l3eqz3rq-rj.a.run.app
 
-# e2e tests
-$ npm run test:e2e
+# link URL Front
+https://eprz-chat-43awxm0pn-enzos97s-projects.vercel.app/
 
-# test coverage
-$ npm run test:cov
 ```
 
 ## Support
