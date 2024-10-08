@@ -1,0 +1,17 @@
+/dist
+/mongo
+/node_modules
+
+dist/
+mongo/
+node_modules/
+
+.gitignore
+.git/
+
+
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+dist
